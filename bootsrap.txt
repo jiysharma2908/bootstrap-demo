@@ -1,0 +1,27 @@
+window + r
+\\10.10.0.192
+zbootstrap copy word file to desktop
+cntrl+click on 1st link of word file
+in browser first link copy with 2nd icon (bootstrap.min.js), paste in body tag
+
+second link paste below title tag (bootstrap.min.css)
+
+grid from getbootstrap.com (12 columns)
+
+break points (5 devices me open honi chaiye website) 
+
+alt press krke same chiz multiple times aur place p likh skte h
+
+components
+card, copy code ( paste comments k just below)
+carousel,copy code (paste below first container and row)
+
+navbar,copy code (paste above first container)
+{copy these code in vs code from getbootsrap.com}
+
+url of poppers for dropdown(paste above the [bootstrap.min.css] link
+
+https://git-scm.com/download/win (to download github)
+
+git hub
+version control
